@@ -1,0 +1,6 @@
+var property = {
+	name: "Kalianah",
+	first_name: "Kali",
+	brand: "Mercedes",
+	traction_number: 4
+};
