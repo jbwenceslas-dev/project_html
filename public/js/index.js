@@ -24,7 +24,7 @@ $(document).ready(() => {
                 <td>${data[dt].student_name}</td>
                 <td>${data[dt].course}</td>
                 <td>${data[dt].student_status}</td>
-                <td><a href="#" class="btn">View</a></td>
+                <td><a href="#" class="btn btn-secondary">View</a></td>
             </tr>
             `;
         }
