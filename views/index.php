@@ -17,7 +17,7 @@ require "template/header.php";
     font-style: italic;
     font-family: "Times New Roman", Times, serif;
     color: blue;
-    background-color: white;
+    background-color: black;
   }
 </style>
 
