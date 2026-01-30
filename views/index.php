@@ -6,7 +6,7 @@ require "template/header.php";
 
 <style>
   body {
-    background-color: white;
+    background-color: red;
   }
 
   .content-logo {
