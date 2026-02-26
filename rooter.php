@@ -5,7 +5,7 @@ require "library/model/Model.php";
 require "library/model/StudentManager.php";
 require "library/Database.php";
 
-
+// Un peu de commentaire dans le rooter.php
 if(isset($_GET["action"]))
 {
     if($_GET["action"] === "show_student")
